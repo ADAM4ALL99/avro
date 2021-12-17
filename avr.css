@@ -1,0 +1,9 @@
+h1 {color: saddlebrown;}
+h2{color: rgb(0, 62, 233);}
+
+body{
+  background-image: url(avro.jpg);
+background-color: rgb(114, 182, 182);
+background-blend-mode: screen;
+}
+
